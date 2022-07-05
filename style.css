@@ -110,12 +110,31 @@ h1 span {
 }
 
 .html-itm{
+  background-color: rgb(246, 249, 250);
     margin: 100px;
     padding: 50px;
+    border-radius: 150px;
+    box-shadow: -15px -15px 15px rgba(255, 255, 255, 0.2), 15px 15px 15px rgba(0,0,0,0.1);
     
 }
 
 .html-img img{
     width: 100%;
    
+}
+
+
+
+.work{
+    margin-top: 80px;
+    background-color: aliceblue;
+   
+}
+.work-tm{
+    display: flex;
+    margin-left: 450px;
+}
+
+.work-itm{
+    width: 30%;
 }

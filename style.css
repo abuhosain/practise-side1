@@ -138,3 +138,22 @@ h1 span {
 .work-itm{
     width: 30%;
 }
+
+
+footer{
+    text-align: center;
+    background-color: rgba(12, 11, 6, 0.87);
+}
+.all{
+   padding-top: 50px;
+   padding-bottom: 50px;
+}
+.all p{
+    color: whitesmoke;
+}
+
+
+
+.spn{
+    color: orange;
+}
